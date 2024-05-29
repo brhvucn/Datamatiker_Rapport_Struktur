@@ -7,12 +7,21 @@ Introduktionen til rapporten indeholder noget omkring problemområdet. Det er i 
 ## Krav
 Dette afsnit indeholder en beskrivelse af kravene til arbejdsopgaven. Her skal det bemærkes at der mange gange beskrives ud fra hvordan verden ser ud i dag og de problemer som en virksomhed oplever. Det kan være svært at trække krav ud fra et problemområde og man bør altid bruge en struktureret process til at gøre det med, så man ikke bare "gætter" på krav, men faktisk er struktureret og systematisk omkring det. Metoder til at udtrække krav med kan være `FURPS+` eller `MoSCoW` - der er flere måder at gøre det på.
 
-Som en del af kravene vil man beskrive det problem man vil løse - altså en problemformulering.
+### Problemformulering
+Som en del af kravene vil man beskrive det problem man vil løse - altså en problemformulering. Problemformuleringen er svær at skrive og man må acceptere at man kommer til at rette den til eller helt ændre den undervejs i projektet. Husk på at man arbejder agilt og iterativt og som projektet skrider fremad får man mange gange mere information omkring projektet som gør at man vil opdatere sin problemformulering.
+
+Problemformuleringen består typisk af et overordnet problem og måske et eller flere undersøgelsesspørgsmål. Husk på at problemformuleringen skal beskrive et _problem_ ikke et ønske til læring.
 
 ## Analyse
 Analysen er den del af udviklingen som prøver at kortlægge hvordan verden ser ud i dag. Det vil sige man vil analysere problemdomænet, forstå brugerne og begynder en dybere analyse for at finde ud af hvordan man skal designe mod fremtiden, med forbedringerne til systemet. Man skal huske at dette handler ikke omkring hvilket system man vil bygge, men det handler om at klarlægge problemet som er beskrevet i problemformuleringen ud fra en analyse.
 
 Her vil man måske kigge på organisationen, økonomien, nuværende udviklingsmetode, nuværende teknologier eller andet som kan være med til at tegne et billede af de problemer der er i dag.
+
+Her kan man forestille sig at man tager en lommelygte og lyser på problemet, man må kun beskrive det man ser i sin analyse. Man må ikke træffe beslutninger eller begynde implementationen i analysen.
+
+* **Input:** Vigtigt at man forholder sig til problemet og problemformuleringen og holder sig indenfor rammerne af det man har skrevet. Analysen skal have en _rød tråd_ tilbage til problemet og til problemformuleringen.
+* **Output:** Det er vigtigt at efter Analysen har man et overblik over de problemer, der er i projektet og hvilken indflydelse de har på virksomheden, mennesker eller omverden (aktører). Dette gør det muligt for næste afsnit at adressere disse problemer. Hvis man skal bruge en sportsmetafor så skal dette afsnit i rapporten _lægge op til_ næste afsnit.
+* **Længde:** Dette er et af de store og vigtige afsnit i rapporten. Der er som sådan ikke noget krav til længden, men de fleste analyseafsnit fylder omkring 10 sider.
 
 ## Design
 Dette afsnit handler omkring fremtiden, hvordan vil dette system løse de problemer vi har fundet i vores analyse fase og hvordan designer vi den somtware som skal understøtte dette? Her handler det om at designe software, i dette afsnit vil der mange gange være et valg af arkitektur (valgene af arkitektur skal understøtte de krav man har kortlagt i kravsafsnittet). Det er også her man mange gange vil træffe valg omkring platform (database, programmeringssprog, servicebus, protokoller og meget mere).
@@ -29,4 +38,7 @@ Kvalitetssikring omfatter også tests, det vil sige at man tidligt skal tage sti
 
 ## Overdragelse / drift
 ## Konklusion
+Konklusionen er opsamlingen af hele rapporten. Den skal adressere de forskellige punkter man har arbejdet med undervejs i rapporten og i særdeleshed den problemformulering man har skrevet. I princippet skal man kunne læse problemformuleringen og få svar på sine spørgsmål / problemer i selve konklusionen.
+
+* **Længde:** Ingen faste krav om længde, men min. en halv side - afhængig af hvor kompleks problemformuleringen er
 ## Bilag
