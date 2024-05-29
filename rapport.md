@@ -22,6 +22,7 @@ Her kan man forestille sig at man tager en lommelygte og lyser på problemet, ma
 * **Input:** Vigtigt at man forholder sig til problemet og problemformuleringen og holder sig indenfor rammerne af det man har skrevet. Analysen skal have en _rød tråd_ tilbage til problemet og til problemformuleringen.
 * **Output:** Det er vigtigt at efter Analysen har man et overblik over de problemer, der er i projektet og hvilken indflydelse de har på virksomheden, mennesker eller omverden (aktører). Dette gør det muligt for næste afsnit at adressere disse problemer. Hvis man skal bruge en sportsmetafor så skal dette afsnit i rapporten _lægge op til_ næste afsnit.
 * **Længde:** Dette er et af de store og vigtige afsnit i rapporten. Der er som sådan ikke noget krav til længden, men de fleste analyseafsnit fylder omkring 10 sider.
+* **Vigtigt:** Der træffes ikke valg omkring teknologier i dette afsnit, lige nu er man ved at kigge på problemet - ikke løsningen.
 
 ## Design
 Dette afsnit handler omkring fremtiden, hvordan vil dette system løse de problemer vi har fundet i vores analyse fase og hvordan designer vi den somtware som skal understøtte dette? Her handler det om at designe software, i dette afsnit vil der mange gange være et valg af arkitektur (valgene af arkitektur skal understøtte de krav man har kortlagt i kravsafsnittet). Det er også her man mange gange vil træffe valg omkring platform (database, programmeringssprog, servicebus, protokoller og meget mere).
