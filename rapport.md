@@ -27,6 +27,17 @@ Her kan man forestille sig at man tager en lommelygte og lyser på problemet, ma
 ## Design
 Dette afsnit handler omkring fremtiden, hvordan vil dette system løse de problemer vi har fundet i vores analyse fase og hvordan designer vi den somtware som skal understøtte dette? Her handler det om at designe software, i dette afsnit vil der mange gange være et valg af arkitektur (valgene af arkitektur skal understøtte de krav man har kortlagt i kravsafsnittet). Det er også her man mange gange vil træffe valg omkring platform (database, programmeringssprog, servicebus, protokoller og meget mere).
 
+I dette afsnit er det vigtigt at man designer et system som adresserer de problemer man har afdækket i Analysefasen. Det vil sige at man skaber en rød tråd tilbage til forrige afsnit. 
+
+Design er ikke UI design, det handler om softwaredesign og omkring hvordan bygger man sin software. Skal det være en lagdelt arkitektur, web, app, desktop, tiered arkitektur, cloud eller noget helt andet. Formålet er her at vi designer softwaren som skal implementeres.
+
+Når man skal designe sin løsning skal man mange gange have valgt nogle teknologier, her kan man vurdere den ene teknologi op mod den anden og se hvilken teknologi som bedst løser de udfordringer man har skrevet om i sin problemformulering og i sin analyse.
+
+* **Input:** Analysen og de problemer og udfordringer som analysen peger på skal man have designet et stykke software som løser disse udfordringer. Dette skal skabe en rød tråd ned til forrige afsnit og helt tilbage til krav, problemformulering og analysen.
+* **Output:** Efter dette afsnit har vi et overordnet design af hvordan systemet skal se ud. Designet er resultatet af vores analyse af problemer og hvordan vi vil opnå kravene og løse udfordringerne. Med dette design kan implementeringen tage over og implementere designet.
+* **Længde:** Der er ingen fast længde for dette afsnit, dette afsnit er typisk det største afsnit, da det er her vi viser meget af det vi kan. Dette afsnit fylder typisk mere end analyseafsnittet - de fleste designafsnit fylder omkring 15 sider.
+* **Vigtigt:** Der skrives ofte ikke kode i dette afsnit.  Udvælg teknologier - hvis ikke man kan argumentere for valget, så design en abstraktion og beskriv hvordan man i fremtiden nemt kan skifte en platform/teknologi ud med en anden.
+
 ## Implementering
 Implementeringen handler om at eksekvere på sit design. Populært sagt skal man "bare oversætte designet til kode". I praksis er der typisk mere i dette, dette i særdeleshed ud fra et agilt perspektiv.
 
