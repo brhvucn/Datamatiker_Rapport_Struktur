@@ -15,7 +15,7 @@ Dette er en samling af ofte stillede spørgsmål som vi ofte ser under vejlednin
 
 > Det er vigtigt at understrege at det ikke er forbudt at bruge AI i processen. Man må ikke bruge (copy/paste) indhold fra den generative AI direkte i rapporten. Man må gerne bruge generativ AI i processen til undersøgelse og til at få inspiration til kode, til at få feedback på opgaven og hel generel brug af generativ AI. Man kan overveje at hvis generativ AI er del af processen at man vil inkludere et afsnit i starten af rapporten omkring hvordan man bruger det til research, validering og meget andet.
 
-#¤ Hvordan forholder jeg mig til billeder genereret af generativ AI?
+## Hvordan forholder jeg mig til billeder genereret af generativ AI?
 
 > Billeder er anderledes end kode og tekst generelt, da man ikke kan forvente at en studerende tilretter billedet inden det kommer ind i rapporten. Der skal man som billedtekst henvise til et bilag, hvor man kan se hvilken generativ AI, der er brugt samt den prompt der er brugt for at generere billedet.
 
