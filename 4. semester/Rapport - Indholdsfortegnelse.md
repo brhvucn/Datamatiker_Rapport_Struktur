@@ -20,6 +20,8 @@ Man skal i princippet kunne læse problemformuleringen og konklusionen uden at l
 Konklusionen er opsamlingen på hvad man har lært ved at arbejde på det beskrevne problem. Konklusionen skal besvare problemstillingen og man skal tage stilling til i hvilket omfang man har løst problemet, evt. hvad der er udeladt. Man skal kunne læse problemformuleringen og se spørgsmålet, og herefter læse konklusionen og finde svaret på problemet.
 
 ## Perspektivering
+I perspektiveringen har man mulighed for at relatere det man har løst til noget som er større end bare lige det man har arbejdet med. Det kan eksempelvis være, hvis man har begrænset sit scope tidligere, så kan man folde det ud her og relatere til hvordan det kan bredes mere ud. Det kan også være at man kan konkludere hvordan man kan bruge det man har udviklet i andre sammenhænge.
+
 ## Litteraturliste
 Her skal være en litteraturliste. Brug gerne en bestemt metode til at referere til bilagene, den mest brugte i vores branche er `IEEE` (men der findes også fx. `Harvard` og `APA`). Disse referencestandarder understøttes af de fleste tekstbehandlingsprogrammer. Det kan godt betale sig at bruge lidt tid på at sætte sig ind i hvordan man håndterer dette, således man ikke skal gøre det manuelt.
 - [Referencestandarder](https://www.scribbr.dk/kildehaandtering/referencestandarder-oversigt/)
