@@ -1,19 +1,8 @@
-# Site settings
-title: Dit Undervisningsmateriale
-email: dinemail@example.com
-description: >- # denne beskrivelse vil vises under din titel
-  Velkommen til GitHub Pages site for mit kursus.
-baseurl: "" # basen URL til dit projekt
-url: "https://brhvucn.github.io" # URL til dit GitHub Pages site
+title: My blog
+description: My very nice blog
+author: "Jorge Sanz"
 
-# Build settings
 theme: minima
-plugins:
-  - jekyll-feed
 
-# Menu settings
-header_pages:
-  - index.md
-  - modul1.md
-  - modul2.md
-  - kontakt.md
+base_url: /gh-pages-minima-starter
+repository: jsanz/gh-pages-minima-starter
