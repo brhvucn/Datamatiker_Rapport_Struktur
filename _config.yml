@@ -4,12 +4,21 @@ description: >- # denne beskrivelse vil vises under din titel
   Dette er GitHub Pages repository for datamatiker uddannelsen på UCN.
 baseurl: "" # basen URL til dit projekt
 url: "https://brhvucn.github.io/" # URL til dit GitHub Pages site
-remote_theme: pages-themes/slate@v0.2.0
+
+# Build settings
+theme: minima
 plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
+  - jekyll-feed
 
 navigation: # definerer navigationen/menuen for dit site
   - title: "Start"
     url: /readme.md
   - title: "4. Semester"
     url: /4. semester/faq.md 
+    
+# Menu settings
+header_pages:
+  - index.md
+  - modul1.md
+  - modul2.md
+  - kontakt.md
