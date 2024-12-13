@@ -2,7 +2,7 @@ title: UCN Datamatiker
 email: brhv@ucn.dk
 description: >- # denne beskrivelse vil vises under din titel
   Dette er GitHub Pages repository for datamatiker uddannelsen på UCN.
-baseurl: "" # basen URL til dit projekt
+baseurl: "https://brhvucn.github.io/" # basen URL til dit projekt
 url: "https://brhvucn.github.io/" # URL til dit GitHub Pages site
 
 # Build settings
