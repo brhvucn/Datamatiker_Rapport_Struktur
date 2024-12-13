@@ -11,3 +11,14 @@ repository: brhvucn/Datamatiker
 
 # Minima social links
 github_username: brhvucn
+
+# Navigation links
+navigation:
+  - title: "Hjem"
+    url: /index.md
+  - title: "Modul 1"
+    url: /modul1.md
+  - title: "Modul 2"
+    url: /modul2.md
+  - title: "Kontakt"
+    url: /kontakt.md
