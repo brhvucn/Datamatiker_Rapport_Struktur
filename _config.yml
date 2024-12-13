@@ -2,7 +2,7 @@ title: Datamatiker
 description: Opgaver og information omkring datamatikeruddannelsen på Professionshøjskolen UCN
 author: "Brian Hvarregaard"
 
-theme: minima
+theme: just-the-docs
 
 base_url: /Datamatiker
 repository: brhvucn/Datamatiker
