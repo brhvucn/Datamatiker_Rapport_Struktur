@@ -1,8 +1,8 @@
-title: My blog
-description: My very nice blog
-author: "Jorge Sanz"
+title: Datamatiker
+description: Opgaver og information omkring datamatikeruddannelsen på Professionshøjskolen UCN
+author: "Brian Hvarregaard"
 
-theme: minima
+theme: minimal
 
-base_url: /gh-pages-minima-starter
-repository: jsanz/gh-pages-minima-starter
+base_url: /Datamatiker
+repository: brhvucn/Datamatiker
