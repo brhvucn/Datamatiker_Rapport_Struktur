@@ -1,0 +1,16 @@
+title: Din Kursus Titel
+email: dit-email@example.com
+description: >- # denne beskrivelse vil vises under din titel
+  Dette er GitHub Pages repository for [Kursus Navn].
+baseurl: "" # basen URL til dit projekt
+url: "https://ditgithubbrugernavn.github.io" # URL til dit GitHub Pages site
+
+navigation: # definerer navigationen/menuen for dit site
+  - title: "Start"
+    url: /index.md
+  - title: "Modul 1"
+    url: /modul1.md
+  - title: "Modul 2"
+    url: /modul2.md
+  - title: "Kontakt"
+    url: /kontakt.md
