@@ -6,3 +6,6 @@ theme: minima
 
 base_url: /Datamatiker
 repository: brhvucn/Datamatiker
+
+# Minima social links
+github_username: brhvucn
