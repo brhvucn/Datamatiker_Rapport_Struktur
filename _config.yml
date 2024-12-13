@@ -1,21 +1,16 @@
-title: UCN Datamatiker
-email: brhv@ucn.dk
+# Site settings
+title: Dit Undervisningsmateriale
+email: dinemail@example.com
 description: >- # denne beskrivelse vil vises under din titel
-  Dette er GitHub Pages repository for datamatiker uddannelsen på UCN.
-baseurl: "https://brhvucn.github.io/" # basen URL til dit projekt
-url: "https://brhvucn.github.io/" # URL til dit GitHub Pages site
+  Velkommen til GitHub Pages site for mit kursus.
+baseurl: "" # basen URL til dit projekt
+url: "https://brhvucn.github.io" # URL til dit GitHub Pages site
 
 # Build settings
-remote_theme: pages-themes/minimal@v0.2.0
+theme: minima
 plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
+  - jekyll-feed
 
-navigation: # definerer navigationen/menuen for dit site
-  - title: "Start"
-    url: /readme.md
-  - title: "4. Semester"
-    url: /4. semester/faq.md 
-    
 # Menu settings
 header_pages:
   - index.md
